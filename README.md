@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/Java-18-orange
+![Static Badge](https://img.shields.io/badge/Java-18-orange)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onear233)](https://github.com/anuraghazra/github-readme-stats)
