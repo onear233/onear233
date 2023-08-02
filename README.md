@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/WPF-blue)
 ![Static Badge](https://img.shields.io/badge/Git-orange)
 ![Static Badge](https://img.shields.io/badge/HTML-blue)
-![Static Badge](https://img.shields.io/badge/css-orange?logo=css3&color=orange)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?logo=javascript&color=yellow)
 
 
