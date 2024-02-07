@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💻 Workspaces
-![Static Badge](https://camo.githubusercontent.com/253d4f95117898e1b2c757ebb4f5c4fd56e85ebfa4d8af914bba102e1bb5d97b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d4646373133393f7374796c653d666f722d7468652d6261646765266c6f676f3d46697265666f782d42726f77736572266c6f676f436f6c6f723d7768697465)
 ![Static Badge](https://img.shields.io/badge/git-python?style=for-the-badge&logo=git&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/WINDOWS11-9?style=for-the-badge&logo=windows&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/CHROME122-0?style=for-the-badge&logo=googlechrome&logoColor=white&color=blue)
