@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 ### 🎈 My Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onear233&count_private=true&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onear233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Status
+2024/2/16:
+From now on I will only available on Saturday night (at about 9 p.m.) due to the busy study.
+And can only keep a low update speed because I'll have no vacation in the future days untill 2025/6/10
