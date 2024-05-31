@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-c%23?style=for-the-badge&logo=csharp&logoColor=white&color=purple)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=white&color=purple)
 
 
 
