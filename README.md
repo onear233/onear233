@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 💻 Workspaces
 ![Static Badge](https://img.shields.io/badge/git-python?style=for-the-badge&logo=git&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/WINDOWS11-9?style=for-the-badge&logo=windows&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/CHROME122-0?style=for-the-badge&logo=googlechrome&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/CHROME-0?style=for-the-badge&logo=googlechrome&logoColor=white&color=blue)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual%20Studio%202022-0?style=for-the-badge&logo=visualstudio&logoColor=white&color=purple)
 
