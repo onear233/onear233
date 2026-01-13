@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 🌱 Used Languages
-![Static Badge](https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=brown)
+![Java](https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=brown)
 ![C#](https://img.shields.io/badge/c%23-c%23?style=for-the-badge&logo=csharp&logoColor=white&color=purple)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-
+![Static Badge](https://img.shields.io/badge/C%2B%2B-brightgreen?style=for-the-badge&logo=C%2B%2B)
 
 
 <!--🎈 My Github Status
