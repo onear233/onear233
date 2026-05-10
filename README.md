@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Exploring](https://skillicons.dev/icons?i=vue,html,css,qt,rust,spring)
 
 
-🎈 My Github Status
+🎈 My Github Status 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=onear233&count_private=true&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=onear233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
