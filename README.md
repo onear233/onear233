@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Tools](https://skillicons.dev/icons?i=androidstudio,idea,clion,vscode,visualstudio,mysql,sqlite,linux,ae,ps,pr,git)
 
 ### 👀 Now Exploring
-![Exploring](https://skillicons.dev/icons?i=vue,html,css,qt,rust,spring)
+![Exploring](https://skillicons.dev/icons?i=vue,html,css,qt,rust,spring,golang)
 
 
 ### 🎈 My Github Status 
